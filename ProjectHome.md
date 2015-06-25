@@ -1,0 +1,1 @@
+A Delphi Win32 translation of the C# OAuthBase.cs by Eran Sandler.
